@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-sleek"
   spec.version       = "0.1.9"
-  spec.authors       = ["Jan Czizikow"]
-  spec.email         = ["jan.czizikow@gmail.com"]
+  spec.authors       = ["Jonathan Kent"]
+  spec.email         = ["jon@earthdrain.co.nz"]
 
-  spec.summary       = %q{Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.}
+  spec.summary       = %q{Providing quality top service }
   spec.homepage      = "https://janczizikow.github.io/sleek/"
   spec.license       = "MIT"
 
